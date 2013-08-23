@@ -6,7 +6,5 @@
 <path>/Taller01</path>
 <path>/Taller01/src</path>
 </pydev_pathproperty>
-<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
-<path>/usr/local/lib/python2.7/dist-packages/cocos2d-0.5.5-py2.7.egg/EGG-INFO/PKG-INFO</path>
-</pydev_pathproperty>
+
 </pydev_project>
